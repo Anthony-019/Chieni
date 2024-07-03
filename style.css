@@ -1,0 +1,96 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    color: blue;
+    
+}
+span{
+    color: orangered;
+}
+.sub{
+    transform: translateX(190vh);
+    background-color: red;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+}
+.sub:hover{
+    cursor: pointer;
+    background-color: greenyellow;
+    color: white;
+}
+input{
+    height: 30px;
+    width: 200px;
+    margin: 10px;
+    padding-left: 30px;
+    border-radius: 10px;
+    background-color: aqua;
+}
+input:hover{
+    background-color: blue;
+    color: white;
+}
+.sum{
+    height: 30px;
+    background-color: rgb(220, 20, 220);
+    width: 65px;
+    border-radius: 10px;
+}
+.sum:hover{
+    background-color: red;
+    margin: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.container{
+    height:0;
+}
+.img{
+    height: 450px;
+    transform: translateX(130vh);
+    width: 400px;
+    border-radius: 200px;
+}
+ol{
+    transform: translateX(30vh);
+}
+.cop{
+    transform: translateY(15vh);
+}
+body{
+    background-color: chartreuse;
+}
+.dis{
+    transform: translateX(73vh);
+}
+.git{
+    width: 180px;
+    height: 180px;
+}
+.fb{
+    width: 180px;
+    height: 180px;
+}
+.app{
+    width: 180px;
+    height: 180px;
+}
+.twit{
+    width: 180px;
+    height: 180px;
+}
+.yt{
+    width: 180px;
+    height: 180px;
+}
+.tik{
+    width: 180px;
+    height: 180px;
+}
+.insta{
+    width: 180px;
+    height: 180px;
+}
